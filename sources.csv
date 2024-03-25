@@ -1,0 +1,88 @@
+﻿Variable,Source,Explanation of variables
+Deaths_17_sep,https://www.covid19india.org,Total deaths due to COVID-19 in states as of 17 september 2020
+Deaths_7_may_2021,https://www.covid19india.org,Total deaths due to COVID-19 in states as of 7th May 2021
+deaths_17_sep_20_pm,https://www.covid19india.org,Total deaths due to COVID-19 in states per million as of 17 september 2020 
+deaths_7_may_21_pm,https://www.covid19india.org,Total deaths due to COVID-19 in states per million as of 7th May 2021
+pop_2011,https://en.wikipedia.org/w/index.php?title=List_of_states_and_union_territories_of_India_by_population&oldid=1150091772,Population size of states as per 2011 Census
+GSDP_per_capita_18to19,https://statisticstimes.com/economy/india/indian-states-gdp-per-capita.php,GSDP of Indian states per capita for year 2018-2019
+Age>60_elderly_india,https://www.cbhidghs.nic.in/,Percentage of population that is 65 years and older
+literacy,https://en.wikipedia.org/w/index.php?title=List_of_Indian_states_and_union_territories_by_literacy_rate&oldid=1148142693#cite_note-censuslist-7,Percentage of population that is literate 2011 Census
+urban,https://en.wikipedia.org/w/index.php?title=List_of_Indian_states_and_union_territories_by_literacy_rate&oldid=1148142693#cite_note-censuslist-8,Percentage of population that is urban 2011 Census
+GGI_19,http://data-analytics.github.io/Good_Governance/,Good Governance Index for year 2019 
+below_poverty,https://www.cbhidghs.nic.in/,Percentage of population that is living below poverty line
+slum_percent,https://www.cbhidghs.nic.in/,Percentage of households that is living in slums
+expenditure_health,https://www.cbhidghs.nic.in/,Percentage of GSDP spent by state on health 
+drinking_water_within_premisis,https://www.cbhidghs.nic.in/,Percentage of households that has drinking water within premisis
+Bathroom_available,https://www.cbhidghs.nic.in/,Percentage of households that has availability of bathrooms
+Bathing_in_enclosure_without_roof,https://www.cbhidghs.nic.in/,Percentage of households that has bathing in enclosures without roof
+Closed_drainage,https://www.cbhidghs.nic.in/,Percentage of households that has closed drainage
+No drainage,https://www.cbhidghs.nic.in/,Percentage of households that has no drainage
+unsafe_water_sanitation_handwash_percent_deaths,https://vizhub.healthdata.org/gbd-compare/india#14,Percentage of deaths due to unsafe handwashing and sanitation 2019
+BCG,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for BCG
+POLIO,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for POLIO
+DPT,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for DPT
+Measles,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for Measles
+Hepatitis,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for Hepatitis
+Varicella and herpes zoster,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for Varicella and herpes zoster
+Acute hepatitis B,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for Acute hepatitis B
+Acute hepatitis  E,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for Acute hepatitis  E
+vit_A,https://www.cbhidghs.nic.in/,Percentage of population that is immunized for Vitamin A deficiency 
+Trichuriasis,https://vizhub.healthdata.org/gbd-compare/india#0,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+leprosy,https://vizhub.healthdata.org/gbd-compare/india#0,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+hookworm,https://vizhub.healthdata.org/gbd-compare/india#1,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Cystic echinococous,https://vizhub.healthdata.org/gbd-compare/india#2,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Ascaris,https://vizhub.healthdata.org/gbd-compare/india#3,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Gout,https://vizhub.healthdata.org/gbd-compare/india#4,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+psoriasis,https://vizhub.healthdata.org/gbd-compare/india#5,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+diabetes melitis type 2,https://vizhub.healthdata.org/gbd-compare/india#6,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Asthama,https://vizhub.healthdata.org/gbd-compare/india#7,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+IBD,https://vizhub.healthdata.org/gbd-compare/india#8,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Measles,https://vizhub.healthdata.org/gbd-compare/india#9,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Rabies,https://vizhub.healthdata.org/gbd-compare/india#10,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Meningitis,https://vizhub.healthdata.org/gbd-compare/india#11,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Acute_hep,https://vizhub.healthdata.org/gbd-compare/india#12,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Dengue,https://vizhub.healthdata.org/gbd-compare/india#13,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Whooping_cough,https://vizhub.healthdata.org/gbd-compare/india#14,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Diptheria,https://vizhub.healthdata.org/gbd-compare/india#15,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+UTI,https://vizhub.healthdata.org/gbd-compare/india#16,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Chlamydia,https://vizhub.healthdata.org/gbd-compare/india#17,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+upper_res,https://vizhub.healthdata.org/gbd-compare/india#18,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Interstitial lung disease and pulmonary sarcoidosis,https://vizhub.healthdata.org/gbd-compare/india#19,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+child_maternal_nut,https://vizhub.healthdata.org/gbd-compare/india#20,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+hi_bmi_deaths,https://www.cbhidghs.nic.in/,Percentage of population having a High BMI related deaths
+hi_fas_plasma_glu,https://www.cbhidghs.nic.in/,Percentage of population having a High fasting plasma glucose
+hi_sys_bp,https://www.cbhidghs.nic.in/,Percentage of population having a High systolic blood pressure
+Breast  cancer,https://vizhub.healthdata.org/gbd-compare/india#0,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Brain and central nervous system   cancer,https://vizhub.healthdata.org/gbd-compare/india#1,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Prostate    cancer,https://vizhub.healthdata.org/gbd-compare/india#2,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Kidney cancer,https://vizhub.healthdata.org/gbd-compare/india#3,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Hodgkin lymphoma,https://vizhub.healthdata.org/gbd-compare/india#4,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
+Non-Hodgkin lymphoma,https://vizhub.healthdata.org/gbd-compare/india#5,"Prevalence in percentage of the disease for both sexes, age
+standardized, year chosen 2019 in querry"
